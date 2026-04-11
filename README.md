@@ -1,3 +1,7 @@
+Alumno: Matias Ferrufino
+
+Resolución de: Empanada Gimenez
+
 # Sueldo de Pepe
  
 [![Build Status](https://github.com/wollok/polimorfismoSueldoDePepe/actions/workflows/ci.yml/badge.svg)](https://github.com/wollok/polimorfismoSueldoDePepe/actions/workflows/ci.yml)
