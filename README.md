@@ -1,3 +1,6 @@
+Alumno: Matias Ferrufino
+Resolución de: Mensajeros de Película
+
 # Sueldo de Pepe
  
 [![Build Status](https://github.com/wollok/polimorfismoSueldoDePepe/actions/workflows/ci.yml/badge.svg)](https://github.com/wollok/polimorfismoSueldoDePepe/actions/workflows/ci.yml)
